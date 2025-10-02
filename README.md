@@ -30,7 +30,8 @@ pip install -r requirements.txt
 
 4. Run the Streamlit App
 
-I created this project inspired by some of my school assignments to help others in need of a regression tool.
 Once the dependencies are installed, run the following command in your terminal:
 
 streamlit run app.py
+
+I created this project inspired by some of my school assignments to help others in need of a regression tool.
